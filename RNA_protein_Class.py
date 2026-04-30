@@ -1,4 +1,5 @@
 class RNASequence:
+    
     """
     Represents an RNA sequence and provides methods for validation,
 
